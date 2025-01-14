@@ -10,6 +10,6 @@ This C program reads numbers in various number systems (binary, octal, hexadecim
 - Outputs results to a specified file
 
 ## implemented C language features:
-- Union
-- Struncture
-- Pointer
+- Preprocessing
+- Arrays
+- Typecasting
